@@ -1,0 +1,6 @@
+  /* @Test
+  @DisplayName("Appropriate exception if data file does not exist")
+  public void readFileNotFound() throws IOException {
+    Throwable t = assertThrows(IOException.class, () -> track1.readFile("this_file_does_not_exist"));
+    assertThat(t.getClass(), anyOf(is(FileNotFoundException.class), is(NoSuchFileException.class)));
+  } */

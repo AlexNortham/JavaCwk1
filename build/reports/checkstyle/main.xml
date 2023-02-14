@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="C:\Users\alexa\Documents\Java Projects\cwk1\src\main\java\ConvertToKML.java">
+</file>
+<file name="C:\Users\alexa\Documents\Java Projects\cwk1\src\main\java\ElevationPlot.java">
+</file>
+<file name="C:\Users\alexa\Documents\Java Projects\cwk1\src\main\java\GPSException.java">
+</file>
+<file name="C:\Users\alexa\Documents\Java Projects\cwk1\src\main\java\PlotApplication.java">
+</file>
+<file name="C:\Users\alexa\Documents\Java Projects\cwk1\src\main\java\Point.java">
+<error line="9" column="1" severity="warning" message="Duplicate import to line 1 - java.time.ZonedDateTime." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+<error line="31" column="30" severity="warning" message="&apos;time&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="31" column="43" severity="warning" message="&apos;longitude&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="31" column="61" severity="warning" message="&apos;latitude&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="31" column="78" severity="warning" message="&apos;elevation&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="32" severity="warning" message="Line is longer than 100 characters (found 123)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\alexa\Documents\Java Projects\cwk1\src\main\java\Track.java">
+<error line="14" column="3" severity="warning" message="Comment has incorrect indentation level 2, expected is 4, indentation should be the same level as line 15." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+<error line="19" column="31" severity="warning" message="Empty catch block." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck"/>
+<error line="27" column="3" severity="warning" message="Comment has incorrect indentation level 2, expected is 4, indentation should be the same level as line 28." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+<error line="49" column="3" severity="warning" message="Comment has incorrect indentation level 2, expected is 4, indentation should be the same level as line 50." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+<error line="54" column="3" severity="warning" message="Comment has incorrect indentation level 2, expected is 4, indentation should be the same level as line 55." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+<error line="63" column="3" severity="warning" message="Comment has incorrect indentation level 2, expected is 4, indentation should be the same level as line 64." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+<error line="74" column="3" severity="warning" message="Comment has incorrect indentation level 2, expected is 4, indentation should be the same level as line 64." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+</file>
+<file name="C:\Users\alexa\Documents\Java Projects\cwk1\src\main\java\TrackInfo.java">
+</file>
+</checkstyle>
